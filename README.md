@@ -11,7 +11,7 @@ The coffee sales data is sourced from a github. Link:[CoffeeSalesData](https://g
 ### Preparing the Data
 The data was cleaned and transformed in excel using data analysis excel functions such as TRIM, VLOOKUP etc.
 
-#### Features of the Dashboard
+### Features of the Dashboard - Data Analysis, Visualization and Communication
 
 1. **Date Slicer:** The dashboard features an intuitive date slicer, allowing users to dynamically filter data based on specific time periods. This enhances the user's ability to analyze sales trends and patterns over time.
 
